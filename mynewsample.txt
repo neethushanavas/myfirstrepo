@@ -1,0 +1,6 @@
+hiii
+<<<<<<< HEAD
+how r u?
+=======
+hello
+>>>>>>> experimental
